@@ -3,9 +3,6 @@ second line added
 third line added
 forth lined added
 sixth line added
-<<<<<<< HEAD
 seventh line added
-=======
 Fifth line added
-
->>>>>>> c0a4dfd774e3b170a12eb32d7c5613568ac30d5b
+eight line
